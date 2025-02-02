@@ -14,7 +14,7 @@ Este projeto é uma recriação do Spotify Web, desenvolvida ao longo da Imersã
 
 1. Pasta public/: Pasta para armazenar os arquivos pré-definidos do React e a favicon do projeto.
 2. Pasta src/: Pasta para armazenar as subpastas "assets" e "components" e demais arquivos.
-3. Subpasta components/: Subpasta que armazena as subpastas "Footer", "Main" e "Sidebar" para componentização. (Cada subpasta possui seus devidos arquivos JS, contendo a estrutura da aplicação, e arquivos css, contendo a estilização da aplicação).
+3. Subpasta components/: Subpasta que armazena as subpastas "Footer", "Main" e "Sidebar" para componentização. (Cada subpasta possui seus devidos arquivos JS, contendo a estrutura da aplicação, e arquivos CSS, contendo a estilização da aplicação).
 4. script.js: Arquivo que contém a parte lógica feita para a filtragem de pesquisa.
 5. App.js: Arquivo principal juntando todos os componentes.
 6. App.css: Arquivo de estilização dedicado para reset, variáveis de CSS, estilização do body e media-queries.
