@@ -4,7 +4,7 @@
 
 **Sobre o projeto**
 
-Este projeto é uma interface web clonada do Spotify, desenvolvida ao longo da Imersão Dev Front-end da Alura. O projeto possui uma interface simples e filtragem de pesquisa vinculada a uma falsa API criada. O projeto foi desenvolvido com HTML, CSS e Javascript e React, juntamente com JSON-Server.
+Este projeto é uma interface web clonada do Spotify Web, desenvolvida ao longo da Imersão Dev Front-end da Alura. O projeto possui uma interface simples e filtragem de pesquisa vinculada a uma falsa API criada. O projeto foi desenvolvido com HTML, CSS e Javascript e React, juntamente com JSON-Server.
 
 **Funcionalidades**
 
