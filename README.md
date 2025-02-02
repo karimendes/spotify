@@ -1,50 +1,70 @@
-## **README.md**
+# Getting Started with Create React App
 
-### **Spotify**
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Sobre o projeto**
+## Available Scripts
 
-Este projeto é uma interface web clonada do Spotify, desenvolvida ao longo da Imersão Dev Front-end da Alura. O projeto possui uma interface simples e filtragem de pesquisa vinculada a uma falsa API criada. O projeto foi desenvolvido com HTML, CSS e Javascript, juntamente com JSON-Server.
+In the project directory, you can run:
 
-**Funcionalidades**
+### `npm start`
 
-- Barra de pesquisa funcional: Filtra os artistas e playlists registrados vinculados a pesquisa.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Estrutura do projeto**
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-1. index.html: Arquivo principal contendo a estrutura do site.
-2. Pasta src/: Pasta para armazenar as subpastas "assets" e "styles".
-3. Subpasta styles/: Subpasta que armazena todos os arquivos CSS do projeto.
-4. main-content.css: Arquivo de estilo dedicado ao cabeçalho e a parte principal do projeto.
-5. sidebar-footer.css: Arquivo de estilo dedicado a barra lateral e ao rodapé do projeto.
-6. media-queries.css: Arquivo de estilo para adaptar a o tamanho do site em telas de desktops e notebooks.
-7. reset.css: Arquivo para zerar as configurações padrões do HTML.
-8. vars.css: Arquivo para armazenar as variáveis de CSS.
-9. Subpasta assets/: Subpasta que armazena outras subpastas "icons" e "playlists".
-10. Subpasta icons/: Subpasta que armazena os ícones utilizados no projeto.
-11. Subpasta playlists/: Subpasta que armazena as imagens das playlists mostradas na parte principal do site.
-12. Pasta api-artists/: Pasta para armazenar o arquivo "artists.json".
-13. artists.json: Arquivo dedicado a API falsa.
-14. script.js: Arquivo que contém a parte lógica feita para a filtragem de pesquisa.
+### `npm test`
 
-**Pré-requisitos**
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Um navegador moderno como Google Chrome, Mozilla Firefox ou Microsoft Edge.
-- Uma IDE como o VSCode.
-- Acesso a todos arquivos corretamente vinculados ao projeto.
-- Ter instalado o NodeJS e NPM.
-- Versão JSON-Server requisitada: 0.17.0 ou 0.17.4.
+### `npm run build`
 
-**Como usar**
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. Clone o repositório ou copie os arquivos para o seu computador.
-2. Certifique-se de que todos os arquivos estejam na mesma pasta.
-3. Baixe o NodeJS e o NPM pelo terminal do seu computador.
-4. Instale o JSON-Server na versão aquisitada.
-5. No terminal da IDE, inicie o JSON-Server.
-6. Abra o arquivo index.html em um navegador da web.
-7. Explore o projeto.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-**OBS: o projeto NÃO é responsivo**
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#Front-end #WebDev #Imersão-Front-end-Alura #Alura
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
